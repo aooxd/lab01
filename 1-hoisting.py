@@ -1,5 +1,5 @@
 def display_variable():
-   n = 5
+    n = 5
     return n
 
 if __name__ == "__main__":
